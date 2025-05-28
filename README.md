@@ -1,0 +1,2 @@
+# nazicord
+Discord Multi tool
